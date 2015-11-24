@@ -1,4 +1,4 @@
-The Zen of Python, by Morriaty Wang 
+The Zen of Python, by Morriaty Wang(from PRC) 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Beautiful is better than ugly.
